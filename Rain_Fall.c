@@ -7,6 +7,6 @@ int main()
     printf("LIGHT");
     else if(a>=3&&a<7)
     printf("MODERATE");
-    else 
+    else if(a>=7)
     printf("HEAVY");
 }
